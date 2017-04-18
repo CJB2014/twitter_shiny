@@ -2,7 +2,7 @@
 
 
 shinyUI(fluidPage(
-  titlePanel('WDMP - Brand Sentiment Analysis Tool'),
+  titlePanel('Brand Sentiment Analysis Tool'),
   sidebarLayout(
     
     sidebarPanel(width = 3, tags$style(".well{background-color:#00ABC2; color:#FFF; font-weight:bold}")
